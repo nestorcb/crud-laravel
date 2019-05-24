@@ -14,5 +14,5 @@ class Contact extends Model
         'city',
         'country',
         'job_title'       
-    ];   //
+    ];   
 }
